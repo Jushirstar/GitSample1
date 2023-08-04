@@ -9,7 +9,7 @@ public class SimplePractice {
 		Scanner sc= new Scanner(System.in);
 		int n=sc.nextInt();
 		
-		System.out.println(n + "is as input");
+		System.out.println(n + "is as input ");
 	}
 
 }
