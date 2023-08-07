@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>AutomationFramework</name>
+=======
+	<name>GitPractice</name>
+>>>>>>> branch 'master' of https://github.com/Jushirstar/GitSample1.git
 	<comment></comment>
 	<projects>
 	</projects>
