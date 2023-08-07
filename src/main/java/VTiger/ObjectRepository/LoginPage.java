@@ -25,6 +25,7 @@ public class LoginPage {//Rule 1 : Create seperate POM class for every page
 	}
 		
 		
+	
 	//Rule 3 : Provide getters to access the elements 
 	public WebElement getUserNameEdt() {
 	return userNameEdt;
