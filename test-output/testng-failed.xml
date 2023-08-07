@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Test-Runner_Chrome(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="Vtiger.baseclasses.CreateOrgwithIndustryTest">
+        <methods>
+          <include name="acConfig"/>
+          <include name="amConfig"/>
+          <include name="asConfig"/>
+          <include name="createOrgwithIndustry"/>
+          <include name="bmConfig"/>
+          <include name="bcConfig"/>
+          <include name="bsConfig"/>
+        </methods>
+      </class> <!-- Vtiger.baseclasses.CreateOrgwithIndustryTest -->
+    </classes>
+  </test> <!-- Test-Runner_Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->
